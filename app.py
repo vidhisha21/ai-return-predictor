@@ -29,9 +29,9 @@ data = {
 df = pd.DataFrame(data)
 
 # --- Dashboard Header ---
-st.title("📦 AI Catalyst: Automated Return Predictor")
+st.title("📦 Automated Return Predictor")
 st.markdown("""
-**Abakus Task Prototype** | *E-Commerce Operations Backend*  
+*E-Commerce Operations Backend*  
 This dashboard monitors live product reviews and support tickets, using NLP to predict return volume spikes before they happen.
 """)
 st.markdown("---")
